@@ -10,3 +10,5 @@ You can read more about the extension over at (Ext)[ext]
 
 1. Symlink your chrome Default styles directory to ~/.css
   * ```ln -s ~/Library/Application\ Support/Google/Chrome/Default/User\ StyleSheets ~/.css```
+2. Pull this repo into .css
+  * ``` cd ~/.css```
