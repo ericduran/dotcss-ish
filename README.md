@@ -17,3 +17,19 @@ You can read more about the extension over at (Ext)[ext]
   * ``` git pull origin master```
 
 3. compass compile
+
+
+# Chaging the web
+
+```sass
+/* Use the hostname as a class */
+
+.mycloud-pointhq-com {
+  .free {
+    display: none;
+  }
+}
+
+```
+
+The last step is running ```compass compile```. To update your actual Custom.css file.
