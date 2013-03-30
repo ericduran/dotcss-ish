@@ -21,6 +21,9 @@ You can read more about the extension over at [dotcss-ish](https://github.com/er
   * Visit chrome://extensions/
   * Drag ```dotcss-ish.crx``` into the page.
 
+The chrome extention just adds the hostname of the site as a class to you document.
+Except it replaces "." with "-".
+
 
 # Chaging the web
 
