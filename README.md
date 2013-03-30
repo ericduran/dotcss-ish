@@ -17,6 +17,9 @@ You can read more about the extension over at [dotcss-ish](https://github.com/er
   * ``` git pull origin master```
 
 3. compass compile
+4. Install dotcss-ish chrome extension.
+  * Visit chrome://extensions/
+  * Drag ```dotcss-ish.crx``` into the page.
 
 
 # Chaging the web
