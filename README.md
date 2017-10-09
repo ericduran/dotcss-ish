@@ -2,11 +2,9 @@
 
 Simple system to manage small css changes around the internet.
 
-I like the idea of dotCss (and dotJs) I just don't want to run
-a server to serve css files.
+I like the idea of [dotCss](https://github.com/stewart/dotcss) (and dotJs) I just don't think you should run a server just to serve css files :-/.
 
-This works with Chrome Default Styles sheets and a tiny extension.
-You can read more about the extension over at [dotcss-ish](https://github.com/ericduran/dotcss-ish/tree/master/ext)
+This works with Chrome Default Styles sheets and a tiny extension. The chrome exention just gives the website a class we can target. You can read more about the extension over at [dotcss-ish](https://github.com/ericduran/dotcss-ish/tree/master/ext)
 
 1. Pull this repo into .css
   * ``` git clone git@github.com:ericduran/dotcss-ish.git ~/.css```
