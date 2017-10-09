@@ -1,5 +1,5 @@
 # dotCss-ish (sort of)
-
+# :exclamation::exclamation:DOES NOT WORK AS OF CHROME 32 SEE [https://stackoverflow.com/a/21210882](https://stackoverflow.com/a/21210882):exclamation::exclamation:
 Simple system to manage small css changes around the internet.
 
 I like the idea of [dotCss](https://github.com/stewart/dotcss) (and dotJs) I just don't think you should run a server just to serve css files :-/.
