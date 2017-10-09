@@ -8,16 +8,13 @@ a server to serve css files.
 This works with Chrome Default Styles sheets and a tiny extension.
 You can read more about the extension over at [dotcss-ish](https://github.com/ericduran/dotcss-ish/tree/master/ext)
 
+1. Pull this repo into .css
+  * ``` git clone git@github.com:ericduran/dotcss-ish.git ~/.css```
 1. Symlink your chrome Default styles directory to ~/.css
   * ```ln -s ~/Library/Application\ Support/Google/Chrome/Default/User\ StyleSheets ~/.css```
-2. Pull this repo into .css
-  * ``` cd ~/.css```
-  * ``` git init ```
-  * ``` git remote add origin git@github.com:ericduran/dotcss-ish.git ```
-  * ``` git pull origin master```
 
-3. compass compile
-4. Install dotcss-ish chrome extension.
+1. compass compile
+1. Install dotcss-ish chrome extension.
   * Visit chrome://extensions/
   * Drag ```dotcss-ish.crx``` into the page.
 
